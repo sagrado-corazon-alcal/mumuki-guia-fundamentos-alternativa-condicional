@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: program
+- binding: CompletarCelda
   inspection: HasIf
-- binding: program
+- binding: CompletarCelda
   inspection: HasUsage:hayBolitas
