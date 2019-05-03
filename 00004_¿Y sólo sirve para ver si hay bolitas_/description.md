@@ -7,4 +7,4 @@ En los ejercicios anteriores te mostramos una de las expresiones que trae Gobsto
 
 Otra que trae _True_ o _False_ (y que vas a tener que usar ahora) es `puedeMover(direccion)`. Como podrás imaginarte, sirve para saber si el cabezal puede moverse en una cierta dirección.
 
-> Usando `puedeMover(direccion)` escribí un programa que se mueva al Este sólo si_es posible.
+> Usando `puedeMover(direccion)` escribí un programa que se mueva al Este sólo _si es_ posible.

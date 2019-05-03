@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: AsegurarUnaBolitaVerde
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: AsegurarUnaBolitaVerde
   inspection: HasIf
-- binding: AsegurarUnaBolitaVerde
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: AsegurarUnaBolitaVerde
   inspection: HasUsage:hayBolitas
