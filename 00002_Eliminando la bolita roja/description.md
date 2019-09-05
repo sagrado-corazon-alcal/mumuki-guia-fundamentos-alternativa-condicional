@@ -12,4 +12,4 @@ Como notarás, introdujimos una nueva estructura de control: el **if**, que en c
 
 Entonces, lo que le estamos diciendo a la computadora es _"si hay bolitas azules, sacá una bolita azul"_, que dicho así suena un poco tonto ¡y lo es!. Ya te dijimos que la computadora sólo sabe cumplir órdenes.
 
-> Probá vos ahora: modificá el procedimiento que te dimos para que saque una bolita roja, sólo _si_ hay alguna.
+> ¡Ahora te toca a vos! Modificá el procedimiento que te dimos para que saque una bolita roja, sólo _si_ hay alguna.
