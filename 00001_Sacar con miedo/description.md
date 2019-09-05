@@ -8,5 +8,3 @@ procedure SacarAzulConMiedo() {
 }
 ```
 > ¡Probalo! Copiá el código anterior en el editor y apretá _Enviar_.
-
-:hourglass:
