@@ -7,7 +7,6 @@ procedure SacarAzulConMiedo() {
   Sacar(Azul)
 }
 ```
-
-Te invitamos a que antes de seguir leyendo pruebes de ejecutar ese procedimiento y veas qué pasa, nosotros te esperamos... 
+> ¡Probalo! Copiá el código anterior en el editor y apretá _Enviar_.
 
 :hourglass:
