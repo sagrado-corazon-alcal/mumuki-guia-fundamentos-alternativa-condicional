@@ -7,3 +7,5 @@ procedure SacarAzulConMiedo() {
   } 
 }
 ```
+
+> Copiá el código anterior en el editor y apretá _Enviar_.
